@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\StoreApp\StoreData\bin\Debug\netcoreapp2.1\StoreData.deps.json
+C:\Users\user\source\repos\StoreApp\StoreData\bin\Debug\netcoreapp2.1\StoreData.dll
+C:\Users\user\source\repos\StoreApp\StoreData\bin\Debug\netcoreapp2.1\StoreData.pdb
+C:\Users\user\source\repos\StoreApp\StoreData\obj\Debug\netcoreapp2.1\StoreData.csprojAssemblyReference.cache
+C:\Users\user\source\repos\StoreApp\StoreData\obj\Debug\netcoreapp2.1\StoreData.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StoreApp\StoreData\obj\Debug\netcoreapp2.1\StoreData.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StoreApp\StoreData\obj\Debug\netcoreapp2.1\StoreData.AssemblyInfo.cs
+C:\Users\user\source\repos\StoreApp\StoreData\obj\Debug\netcoreapp2.1\StoreData.dll
+C:\Users\user\source\repos\StoreApp\StoreData\obj\Debug\netcoreapp2.1\StoreData.pdb
+C:\Users\user\source\repos\StoreApp\StoreData\bin\Debug\netcoreapp2.1\StoreData.runtimeconfig.json
+C:\Users\user\source\repos\StoreApp\StoreData\bin\Debug\netcoreapp2.1\StoreData.runtimeconfig.dev.json
+C:\Users\user\source\repos\StoreApp\StoreData\bin\Debug\netcoreapp2.1\StoreModel.dll
+C:\Users\user\source\repos\StoreApp\StoreData\bin\Debug\netcoreapp2.1\StoreModel.pdb
+C:\Users\user\source\repos\StoreApp\StoreData\obj\Debug\netcoreapp2.1\StoreData.csproj.CopyComplete

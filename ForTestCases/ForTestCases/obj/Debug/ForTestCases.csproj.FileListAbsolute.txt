@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ForTestCases\ForTestCases\bin\Debug\ForTestCases.exe.config
+C:\Users\user\source\repos\ForTestCases\ForTestCases\bin\Debug\ForTestCases.exe
+C:\Users\user\source\repos\ForTestCases\ForTestCases\bin\Debug\ForTestCases.pdb
+C:\Users\user\source\repos\ForTestCases\ForTestCases\obj\Debug\ForTestCases.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ForTestCases\ForTestCases\obj\Debug\ForTestCases.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ForTestCases\ForTestCases\obj\Debug\ForTestCases.exe
+C:\Users\user\source\repos\ForTestCases\ForTestCases\obj\Debug\ForTestCases.pdb

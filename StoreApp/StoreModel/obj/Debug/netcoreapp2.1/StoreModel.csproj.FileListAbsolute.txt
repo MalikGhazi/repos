@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\StoreApp\StoreModel\bin\Debug\netcoreapp2.1\StoreModel.deps.json
+C:\Users\user\source\repos\StoreApp\StoreModel\bin\Debug\netcoreapp2.1\StoreModel.dll
+C:\Users\user\source\repos\StoreApp\StoreModel\bin\Debug\netcoreapp2.1\StoreModel.pdb
+C:\Users\user\source\repos\StoreApp\StoreModel\obj\Debug\netcoreapp2.1\StoreModel.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StoreApp\StoreModel\obj\Debug\netcoreapp2.1\StoreModel.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StoreApp\StoreModel\obj\Debug\netcoreapp2.1\StoreModel.AssemblyInfo.cs
+C:\Users\user\source\repos\StoreApp\StoreModel\obj\Debug\netcoreapp2.1\StoreModel.dll
+C:\Users\user\source\repos\StoreApp\StoreModel\obj\Debug\netcoreapp2.1\StoreModel.pdb

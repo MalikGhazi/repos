@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\StoreApp\StoreBLL\bin\Debug\netcoreapp2.1\StoreBLL.deps.json
+C:\Users\user\source\repos\StoreApp\StoreBLL\bin\Debug\netcoreapp2.1\StoreBLL.dll
+C:\Users\user\source\repos\StoreApp\StoreBLL\bin\Debug\netcoreapp2.1\StoreBLL.pdb
+C:\Users\user\source\repos\StoreApp\StoreBLL\obj\Debug\netcoreapp2.1\StoreBLL.csprojAssemblyReference.cache
+C:\Users\user\source\repos\StoreApp\StoreBLL\obj\Debug\netcoreapp2.1\StoreBLL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StoreApp\StoreBLL\obj\Debug\netcoreapp2.1\StoreBLL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StoreApp\StoreBLL\obj\Debug\netcoreapp2.1\StoreBLL.AssemblyInfo.cs
+C:\Users\user\source\repos\StoreApp\StoreBLL\obj\Debug\netcoreapp2.1\StoreBLL.dll
+C:\Users\user\source\repos\StoreApp\StoreBLL\obj\Debug\netcoreapp2.1\StoreBLL.pdb

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\StoreApp\StoreApp\bin\Debug\netcoreapp2.1\StoreApp.deps.json
+C:\Users\user\source\repos\StoreApp\StoreApp\bin\Debug\netcoreapp2.1\StoreApp.runtimeconfig.json
+C:\Users\user\source\repos\StoreApp\StoreApp\bin\Debug\netcoreapp2.1\StoreApp.runtimeconfig.dev.json
+C:\Users\user\source\repos\StoreApp\StoreApp\bin\Debug\netcoreapp2.1\StoreApp.dll
+C:\Users\user\source\repos\StoreApp\StoreApp\bin\Debug\netcoreapp2.1\StoreApp.pdb
+C:\Users\user\source\repos\StoreApp\StoreApp\obj\Debug\netcoreapp2.1\StoreApp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\StoreApp\StoreApp\obj\Debug\netcoreapp2.1\StoreApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StoreApp\StoreApp\obj\Debug\netcoreapp2.1\StoreApp.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\StoreApp\StoreApp\obj\Debug\netcoreapp2.1\StoreApp.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\StoreApp\StoreApp\obj\Debug\netcoreapp2.1\StoreApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StoreApp\StoreApp\obj\Debug\netcoreapp2.1\StoreApp.AssemblyInfo.cs
+C:\Users\user\source\repos\StoreApp\StoreApp\obj\Debug\netcoreapp2.1\StoreApp.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\StoreApp\StoreApp\obj\Debug\netcoreapp2.1\StoreApp.dll
+C:\Users\user\source\repos\StoreApp\StoreApp\obj\Debug\netcoreapp2.1\StoreApp.pdb
